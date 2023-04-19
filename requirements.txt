@@ -10,6 +10,7 @@ Flask
 
 # for testing:
 pytest
+
 beautifulsoup4
 
 gunicorn
